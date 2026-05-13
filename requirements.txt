@@ -1,0 +1,8 @@
+crawl4ai
+asyncio
+google-genai
+pydantic
+python-dotenv
+sqlalchemy
+psycopg2-binary
+schedule

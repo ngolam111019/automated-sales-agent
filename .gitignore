@@ -1,0 +1,25 @@
+# Environments
+.env
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (if used previously)
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Caches
+.pytest_cache/
+.coverage
+htmlcov/
+.crawl4ai/
