@@ -80,5 +80,5 @@ python main.py
 Generated PR articles will be saved in the `reports/` directory.
 
 ## 👤 Author
-**[Your Name/Your Portfolio Link]**  
+**[Ngo Thanh Lam]**  
 *Role: Technical Lead / AI & Data Pipeline Engineer*
